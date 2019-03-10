@@ -16,6 +16,6 @@ I am following along with [The Odin Project](https://www.theodinproject.com/cour
     => ["hi", "hey", "hello"]
 ```
 
-# I have added a little but extra for this project. 
+# I have added a little extra for this project. 
 There are two files in this repo "bubble_sort_methods" and "bubble_sort_class_methods". I created the "bubble_sort_class_methods" file because I want to be able to call my methods directly from the Array class.  
 
